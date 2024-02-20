@@ -1,0 +1,1 @@
+First practice in javascript
